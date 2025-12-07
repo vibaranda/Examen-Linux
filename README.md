@@ -1,6 +1,6 @@
 
 **Alumno:** Vicente Baranda  
-**Curso:** Administración de Sistemas Linux
+
 
 ### Requisitos Previos
 - Sistema Ubuntu/Debian 20.04 o superior
